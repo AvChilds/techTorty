@@ -2,7 +2,7 @@
 
 # Hi there, I'm Avril 👋
 
-Welcome to my GitHub! I'm a passionate in Data science and software engineering,  with a background in property (real estate), business development, healthcare and a growing portfolio in software engineering and data science.
+Welcome to my GitHub! I'm a career switcher with a growing portfolio in software engineering and data science. I also ahve a background in teaching, property (real estate), business development, healthcare and
 
 ## 🧠 About Me
 
