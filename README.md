@@ -1,4 +1,9 @@
 # techTorty
+
+# Hi there, I'm Avril 👋
+
+Welcome to my GitHub! I'm a passionate developer with a background in healthcare and a growing portfolio in software engineering and data science.
+
 ## 🧠 About Me
 
 - 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Software Engineering and Data Science.
