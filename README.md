@@ -9,11 +9,12 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 - 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Software Engineering and Data Science.
 - 🎓 Now progressing to the +Masters programme in AI and Machine Learning.
 - 🎓 Honours Degree in Nursing.
+- 🎓 PostGraduate (Level 7) Certificate in Humanities 
 - 💻 Other CFG tech courses completed:
-  - Introduction to Coding (Python)
-  - Introduction to Data Science (SQL)
+  - Python Programming
+  - Data Science and SQL
   - Web Development (HTML, CSS, JavaScript)
-  - MOOCs in Cloud, Agile and Scrum, and JavaScript
+  - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
  
 ## 💻 Languages & Tools
 
@@ -48,7 +49,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avrilchilds/)
 - GitHub: [github.com/avchilds](https://github.com/avchilds)
 
 Thanks for visiting! 😊
