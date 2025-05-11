@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ### Python / Data Projects
 
-- 🧙‍♂️ **Hogwarts Wizard Game** – [GitHub Repo](https://github.com/avchilds/hogwarts-game)  
+- 🧙‍♂️ **Hogwarts Wizard Game** – [GitHub Repo](https://github.com/avchilds/python_hogwarts  
 > A magical Python game using APIs and randomness to generate your own wizard identity and assign you a friend from the wizarding world. Created during my CFG Python course – expect spells, surprises, and plenty of Hogwarts charm!
 
 ---
