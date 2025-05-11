@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
   - Data Science and SQL
   - Web Development (HTML, CSS, JavaScript)
   - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
+- 🧠 Love solving problems and building practical tools for people!
  
 ## 💻 Languages & Tools
 
@@ -31,13 +32,18 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ## 🌟 Featured Projects
 
+## Data Science Projects
+- 🏘️ **SQL PropertyDB** – [GitHub Repo](https://github.com/AvChilds/SQL-PropertyDB)  
+  > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
+
+
 ### Web Development Projects
 
 - 🌐 **Brit City Score Website** – [Live Site](https://avchilds.github.io/BritCityScoreWebsite/) | [GitHub Repo](https://github.com/avchilds/BritCityScoreWebsite)
 
 > A simple and fun web app created as part of the CFG Web Development course using HTML, CSS and JavaScript.
 
-### Python / Data Projects
+### Software Engineering Projects
 
 - 🧙‍♂️ **Hogwarts Wizard Game** – [GitHub Repo](https://github.com/avchilds/python_hogwarts)  
 > A magical Python game using APIs and randomness to generate your own wizard identity and assign you a friend from the wizarding world. Created during my CFG Python course – expect spells, surprises, and plenty of Hogwarts charm!
