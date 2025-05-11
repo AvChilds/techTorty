@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ## 🌟 Featured Projects
 
-## Data Science Projects
+### Data Science Projects
 - 🏘️ **SQL PropertyDB** – [GitHub Repo](https://github.com/AvChilds/SQL-PropertyDB)  
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
 
