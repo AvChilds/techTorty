@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ## 📊 Tech & Data Projects
 
-- 📈 **Data Science Portfolio** (coming soon!) – will feature data cleaning, EDA, visualisation, and predictive modelling projects.
+- 📈 **Data Science Portfolio** (coming soon!) – Stock Analysis and Prediction of S&P500 Companies: will showcase data cleaning, EDA, visualisation, and predictive modelling project.
 - 🤖 **AI & ML Projects** (as part of the +Masters) – Stay tuned for exciting AI experiments!
 - 🧠 **Nursing & Health Data Analytics** – Combining clinical insights with tech tools.
 
